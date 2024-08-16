@@ -1,10 +1,24 @@
-# Hi, my name is boby, an IT Professional. 
+<h1>Hi, my name is boby, an IT Professional.</h1>
 
-Information Technology Projects:
--osTicket: Prerequisites and Installation
--osTicket: Post-Installation configuration
--osTicket: Ticket Lifecycle Examples
+<h2>Information Technology Projects:</h2>
 
-Microsoft Azure
--Configuring On-premises Active Directory within Azure VMs (Virtual Machines)
--Network Security Groups (NSGs) and Inspecting Network Protocols
+
+
+<ol type="I">
+<b>osTicket (Help Desk Ticketing System)</b>
+      <ol id="list2">
+      <li> osTicket: Prerequisites and Installation</li>
+      <li> osTicket: Post-Installation configuration</li>
+      <li> osTicket: Ticket Lifecycle Examples</li>
+      </ol>
+</ol>
+
+
+<b>Microsoft Azure</b>
+  -Configuring On-premises Active Directory within Azure VMs (Virtual Machines)
+  -Network Security Groups (NSGs) and Inspecting Network Protocols
+
+<h2>Connect with me </h2>
+<img align="left" width="36px" src="https://iili.io/dEbV3rJ.th.jpg"/>
+
+Linkedin: https://www.linkedin.com/in/boby-b-v-93575298/
