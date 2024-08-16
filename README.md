@@ -15,8 +15,12 @@
 
 
 <b>Microsoft Azure</b>
-  -Configuring On-premises Active Directory within Azure VMs (Virtual Machines)
-  -Network Security Groups (NSGs) and Inspecting Network Protocols
+<ol>
+<ol id="list3">
+      <li>Configuring On-premises Active Directory within Azure VMs (Virtual Machines)</li>
+      <li>Network Security Groups (NSGs) and Inspecting Network Protocols</li>
+</ol>
+</ol>
 
 <h2>Connect with me </h2>
 <img align="left" width="36px" src="https://iili.io/dEbV3rJ.th.jpg"/>
