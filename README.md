@@ -7,9 +7,9 @@
 <ol type="I">
 <b>osTicket (Help Desk Ticketing System)</b>
       <ol id="list2">
-     <a href=""><li> osTicket: Prerequisites and Installation</a></li>
-      <li> osTicket: Post-Installation configuration</li>
-      <li> osTicket: Ticket Lifecycle Examples</li>
+           <li><a href="https://github.com/bvilayvong/osTicket--Prerequisites-and-Installation">osTicket: Prerequisites and Installation</a></li>
+            <li> osTicket: Post-Installation configuration</li>
+            <li> osTicket: Ticket Lifecycle Examples</li>
       </ol>
 </ol>
 
