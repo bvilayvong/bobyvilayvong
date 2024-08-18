@@ -8,7 +8,7 @@
 <b>osTicket (Help Desk Ticketing System)</b>
       <ol id="list2">
            <li><a href="https://github.com/bvilayvong/osTicket--Prerequisites-and-Installation">osTicket: Prerequisites and Installation</a></li>
-            <li><a href="https://github.com/bvilayvong/bobyvilayvong/blob/main/osTicket%3A%20Post-Installation%20configuration"> osTicket: Post-Installation configuration</a></li>
+            <li><a href="https://github.com/bvilayvong/osTicket-Post-Installation-configuration"> osTicket: Post-Installation configuration</a></li>
             <li> osTicket: Ticket Lifecycle Examples</li>
       </ol>
 </ol>
