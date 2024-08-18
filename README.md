@@ -9,7 +9,7 @@
       <ol id="list2">
            <li><a href="https://github.com/bvilayvong/osTicket--Prerequisites-and-Installation">osTicket: Prerequisites and Installation</a></li>
             <li><a href="https://github.com/bvilayvong/osTicket-Post-Installation-configuration"> osTicket: Post-Installation configuration</a></li>
-            <li> osTicket: Ticket Lifecycle Examples</li>
+            <li><a href="https://github.com/bvilayvong/osTicket-Ticket-Lifecycle-Examples"> osTicket: Ticket Lifecycle Examples</a></li>
       </ol>
 </ol>
 
